@@ -21,7 +21,7 @@ The following tools were used in the construction of the project:
 ---
 
 <a href="https://www.linkedin.com/in/deric-parra/">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/47975655?v=4" width="100px;" alt=""/>
+ <img src="https://avatars.githubusercontent.com/u/47975655?v=4" width="100px;" alt=""/>
  <br />
  <sub><b>Deric Parra</b></sub></a> <a href="https://www.linkedin.com/in/deric-parra/"></a>
 
