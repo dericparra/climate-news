@@ -29,4 +29,4 @@ The following tools were used in the construction of the project:
 Made By Deric Parra 👋🏽 Contact!
 
 [![Twitter Badge](https://img.shields.io/badge/-@ParraDeric-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ParraDeric)](https://twitter.com/ParraDeric) [![Linkedin Badge](https://img.shields.io/badge/-Deric-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deric-parra/)](https://www.linkedin.com/in/deric-parra/) 
-[![Gmail Badge](https://img.shields.io/badge/-parradeko@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:parradeko@gmail.com)](parradeko@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-parradeko@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:parradeko@gmail.com)](mailto:parradeko@gmail.com)
