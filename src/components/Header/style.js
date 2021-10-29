@@ -27,7 +27,7 @@ export const Title = styled.h2`
   }
 `
 
-export const Date = styled.p`
+export const Data = styled.p`
   font-size: 12px;
   margin-right: 10px;
   @media (min-width: 539px) {
