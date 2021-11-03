@@ -2,23 +2,21 @@ import styled from 'styled-components'
 
 export const Container = styled.div`
   display: flex;
+  flex-direction: column;
   width: 100%;
   align-items: center;
   margin-top: 20px;
-  justify-content: space-between;
+  justify-content: center;
   @media (min-width: 539px) {
-    justify-content: normal;
     margin-top: 40px;
   }
 `
 
 export const Title = styled.h2`
   font-size: 24px;
-  margin-left: 10px;
 
   @media (min-width: 539px) {
     flex: 2;
-    text-align: end;
     font-size: 36px;
   }
 
@@ -29,10 +27,11 @@ export const Title = styled.h2`
 
 export const Data = styled.p`
   font-size: 12px;
-  margin-right: 10px;
+
   @media (min-width: 539px) {
+    max-width: 100%;
+    display: flex;
+    flex-direction: row;
     flex: 1;
-    text-align: end;
-    font-size: 18px;
   }
 `

@@ -1,9 +1,34 @@
 import React from 'react'
 import { Container, Title, Data } from './style'
 
+let months = [
+  'Janeiro',
+  'Fevereiro',
+  'Março',
+  'Abril',
+  'Maio',
+  'Junho',
+  'Julho',
+  'Agosto',
+  'Setembro',
+  'Outubro',
+  'Novembro',
+  'Dezembro'
+]
+let days = [
+  'Domingo',
+  'Segunfa-Feira',
+  'Terça-Feira',
+  'Quarta-Feira',
+  'Quinta-Feira',
+  'Sexta-Feira',
+  'Sabado'
+]
+
 let d = new Date()
 let day = d.getDate()
-let month = d.getMonth()
+let weekday = days[d.getDate()]
+let month = months[d.getMonth()]
 let year = d.getFullYear()
 
 const Header = () => {
@@ -11,7 +36,7 @@ const Header = () => {
     <Container>
       <Title>Climate News</Title>
       <Data>
-        {day}/{month + 1}/{year}
+        {weekday}, {day} de {month} de {year}
       </Data>
     </Container>
   )
