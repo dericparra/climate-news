@@ -9,6 +9,8 @@ export const Cards = styled.div`
   height: 180px;
   background: #f1f1f1;
   margin-bottom: 40px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 4px;
 
   @media (min-width: 540px) {
     margin-bottom: 80px;
@@ -25,6 +27,7 @@ export const Newspaper = styled.div`
 `
 
 export const Text = styled.p`
+  font-size: 14px;
   width: 120px;
   height: 75px;
   margin-top: 20px;
