@@ -26,8 +26,9 @@ export const Newspaper = styled.div`
   border-bottom: 2px solid #000;
 `
 
-export const Text = styled.p`
+export const Text = styled.a`
   font-size: 14px;
+  color: #000;
   width: 120px;
   height: 75px;
   margin-top: 20px;

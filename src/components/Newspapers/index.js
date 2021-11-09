@@ -1,33 +1,29 @@
 import React from 'react'
 import { List, Link } from './styles'
 
-import BBCLogo from '../../assets/bbc.png'
 import GuardianLogo from '../../assets/guardian.png'
-import LatLogo from '../../assets/lat.png'
+import LatLogo from '../../assets/latimes.png'
 import TelegraphLogo from '../../assets/telegraph.png'
-import TimesLogo from '../../assets/times.png'
-import TnytLogo from '../../assets/tnyt.png'
+import TimesLogo from '../../assets/thetimes.png'
+import TnytLogo from '../../assets/nyt.png'
 
 const Newspapers = () => {
   return (
     <List>
       <Link href="#">
-        <img src={BBCLogo} alt="BBC Logo" />
+        <img src={GuardianLogo} alt="Guardian Logo" />
       </Link>
       <Link href="#">
-        <img src={GuardianLogo} alt="BBC Logo" />
+        <img src={LatLogo} alt="LA Times Logo" />
       </Link>
       <Link href="#">
-        <img src={LatLogo} alt="BBC Logo" />
+        <img src={TelegraphLogo} alt="Telegraph Logo" />
       </Link>
       <Link href="#">
-        <img src={TelegraphLogo} alt="BBC Logo" />
+        <img src={TimesLogo} alt="The Times Logo" />
       </Link>
       <Link href="#">
-        <img src={TimesLogo} alt="BBC Logo" />
-      </Link>
-      <Link href="#">
-        <img src={TnytLogo} alt="BBC Logo" />
+        <img src={TnytLogo} alt="The New York Times Logo" />
       </Link>
     </List>
   )
