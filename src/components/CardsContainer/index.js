@@ -23,14 +23,16 @@ const CardsContainer = () => {
       ) : (
         <Div>
           <Container>
-            {newsList.map((item) => (
-              <Card
-                key={item.title}
-                source={item.source}
-                title={item.title}
-                url={item.url}
-              />
-            ))}
+            {newsList
+              .filter((item, idx) => idx < 8)
+              .map((item) => (
+                <Card
+                  key={item.title}
+                  source={item.source}
+                  title={item.title}
+                  url={item.url}
+                />
+              ))}
           </Container>
         </Div>
       )}

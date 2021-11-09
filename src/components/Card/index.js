@@ -19,7 +19,9 @@ const Card = ({ source, title, url }) => {
           alt={`${source} Logo`}
         />
       </Newspaper>
-      <Text href={url}>{title}</Text>
+      <Text href={url} target="blank">
+        {title}
+      </Text>
     </Cards>
   )
 }
