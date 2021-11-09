@@ -15,9 +15,10 @@ let months = [
   'Novembro',
   'Dezembro'
 ]
+
 let days = [
   'Domingo',
-  'Segunfa-Feira',
+  'Segunda-Feira',
   'Terça-Feira',
   'Quarta-Feira',
   'Quinta-Feira',
@@ -27,9 +28,10 @@ let days = [
 
 let d = new Date()
 let day = d.getDate()
-let weekday = days[d.getDate()]
+let weekday = days[d.getDay()]
 let month = months[d.getMonth()]
 let year = d.getFullYear()
+console.log(weekday)
 
 const Header = () => {
   return (
