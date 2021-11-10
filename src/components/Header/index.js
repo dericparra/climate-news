@@ -31,7 +31,6 @@ let day = d.getDate()
 let weekday = days[d.getDay()]
 let month = months[d.getMonth()]
 let year = d.getFullYear()
-console.log(weekday)
 
 const Header = () => {
   return (
