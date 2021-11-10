@@ -1,6 +1,6 @@
 # Climate News
 
-🌦 News of climate by the biggest 4 newspapers in the world.
+🌦 News of climate by the biggest 5 newspapers in the world, consuming my very first own API.
 
 <h4> 
 	🚧 Site 🚀 In development...  🚧
