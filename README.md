@@ -1,6 +1,6 @@
 # Climate News
 
-🌦 News of climate by the biggest 5 newspapers in the world, consuming my very first own API.
+🌦 News of climate by the biggest 5 newspapers in the world, consuming the very first API that I made.
 
 <h4> 
 	🚧 Site 🚀 In development...  🚧
@@ -17,7 +17,7 @@ The following tools were used in the construction of the project:
 
 
 
-### Autor
+### Author
 ---
 
 <a href="https://www.linkedin.com/in/deric-parra/">
