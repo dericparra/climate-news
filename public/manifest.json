@@ -1,0 +1,9 @@
+{
+    "name": "Climate News",
+    "short_name": "ClimateNews",
+    "theme_color": "#000000",
+    "background_color": "#d2e9d9",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/"
+  }
