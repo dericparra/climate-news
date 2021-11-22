@@ -1,7 +1,8 @@
 # Climate News
 
-🌦 News of climate by the biggest 5 newspapers in the world, consuming the very first API that I made.
-[App live here](https://climate-news-dericparra.vercel.app/)
+News of climate by the biggest 5 newspapers in the world, consuming the very first API that I made.
+
+🌦 [App live here](https://climate-news-dericparra.vercel.app/)
 
 ### 🛠 Techs
 
