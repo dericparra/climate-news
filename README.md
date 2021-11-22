@@ -1,12 +1,7 @@
 # Climate News
 
 🌦 News of climate by the biggest 5 newspapers in the world, consuming the very first API that I made.
-
-<h4> 
-	🚧 Site 🚀 In development...  🚧
-</h4>
-
-
+[App live here](https://climate-news-dericparra.vercel.app/)
 
 ### 🛠 Techs
 
@@ -14,8 +9,6 @@ The following tools were used in the construction of the project:
 
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
-
-
 
 ### Author
 ---
